@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A3_Lesson1</string>
+    <string name="btnText">Количество = %d</string>
+    <string name="defaultBtnText">Количество = 0</string>
+    <string name="title1">Счетчик 1</string>
+    <string name="title2">Счетчик 2</string>
+    <string name="title3">Счетчик 3</string>
+</resources>
